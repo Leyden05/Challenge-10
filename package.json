@@ -1,0 +1,27 @@
+{
+    "name": "uta-bootcamp_challenge10",
+    "version": "1.0.0",
+    "description": "This is Challenge 10 for UT Austins Bootcamp",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+DEPLOYEDURL"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Leyden05/Challenge-10/issues"
+    },
+    "homepage": "https://github.com/Leyden05/Challenge-10",
+    "dependencies": {
+      "inquirer": "^8.2.4",
+      "jest": "^29.4.1"
+    }
+  }
