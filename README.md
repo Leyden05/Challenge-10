@@ -10,6 +10,9 @@ First, head over to your terminal then input the command 'node index.js'. This w
 ## Usage
 Used for companies wanting to keep track of their employees in a virtual setting
 
+#Video
+https://drive.google.com/file/d/1VGMxq1sRwO1NSSDDggQofzo6vd5oo46N/view
+
 ## License
 This application is under a M license.
 
