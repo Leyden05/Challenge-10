@@ -1,4 +1,4 @@
-(https://img.shields.io/bower/l/bootstrap) (https://opensource.org/licenses/MI)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # Employee Team Generator
 
 ## Description
